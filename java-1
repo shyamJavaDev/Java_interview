@@ -1,0 +1,38 @@
+1.Diff in Heap and stack.
+2. why serialization used
+2. comparable and comapartor
+3. solid princple
+4. did caching using in ur app(Data structures using for caching)
+
+5 How many ways to create new instance
+
+ Java object can be created 5 ways
+1) using new keyword
+2) using Class.newInstance() method
+3 using newinstance() method of constructor.
+4) Using Object.clone().
+5) Using Object serialization and deserialization.
+
+
+Exception Handling
+
+Hashmap 
+
+-- hashcode returns always 1
+
+what sis the size of hashcode
+
+
+Exception:
+
+child thrwoing uncheked exception
+
+parent class exception
+ 
+
+
+Spring:
+
+1. Qualifier in spring
+2. scopes in spring
+3.Diff ways of injection       
