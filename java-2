@@ -1,0 +1,44 @@
+1.Concurrent hash map
+
+2.Comparator/how to sort the custom objects (invokig sort())
+
+3.ListIterator / added method for traversing both th sides
+
+
+4. HashSet implimentaion
+=======================
+
+public boolean add(E e) {
+  return map.put(e, PRESENT)==null;
+}
+
+5. diff in ArrayList.remove/ iterator remove/
+list1.remove(2   
+
+
+
+4:15 What is the difference between JDK, JRE and JVM?
+5:50 What is synchronization?
+7:38 What are the differences between processes and threads?
+13:36 What are Wrapper classes?
+17:18 What purpose does the keywords final, finally and finalize fulfill?
+21:20 What is the difference between StringBuffer and StringBuilder?
+24:58 What are the differences between Heap and Stack memory?
+39:03 What is the difference between Abstract classes and Interfaces?
+53:14 What is the difference between method overloading and method overriding?
+55:03 Can you ovveride a private or static method in Java?
+55:43 What is multiple inheritance and does java support it?
+59:03 What is a Servlet?
+1:00:41 What is the difference between Get and Post methods?
+1:04:45 What is the lifecycle of a servlet?
+1:16:01 What is Spring?
+
+
+
+Spring Boot/Microservice
+1.why spring boot
+2. can i make standalone with spring boot
+3. how to remove default server 
+4. how to read property from properties file
+5. how to map all type mappings(GET/POST/PATCH) (RequestMapping)
+6. Profile in sprin boot Application
